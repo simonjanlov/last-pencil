@@ -1,4 +1,4 @@
-# lastpencil
+# last-pencil
 A do-not-take-the-last-pencil game for learning purposes
 
 - This command-line game lets the user pick the initial amount of pencils and which of the two given players that should go first.
